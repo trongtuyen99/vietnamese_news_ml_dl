@@ -1,0 +1,1 @@
+dùng nic express lan adsl mình lan khoản máy đường truyền adsl vnn mình kết_nối router modem adsl cnet khi cài modem cổng kết_nối wan server nic share internet isa server bây nic express cài nic nhưng cài xong kết_nối internet mặc group nic adsl group riêng cả group tất kết_nối được chỉ group nic router có router modem adsl kết_nối không rất giúp_đỡ người bùi_anh phương
