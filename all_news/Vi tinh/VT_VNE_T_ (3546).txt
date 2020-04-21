@@ -1,0 +1,1 @@
+iis lỗi khởi_động tôi win pro thời cài iis iis chạy tốt http_localhost web ngày tôi kiểm_tra iis phát stop nhưng bấm start được tôi gỡ chương iis cài iis mới nhưng chạy được vậy kinh_nghiệm giúp với xin chân cám_ơn mai thanh hồi_âm theo kinh_nghiệm tôi iis start cổng cổng mặc iis chiếm_dụng bạn kiểm_tra cổng hoạt_động iis tắt_ứng chiếm cổng có apache ứng tương_tự
