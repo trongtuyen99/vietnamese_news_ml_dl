@@ -1,0 +1,1 @@
+xóa_sạch ổ_cứng chao cac ban toi co cung da lam_format nhung van khong sach het phan_mem mong cac ban chi gium cach nao de xoa sach cung thanh_that cam on thử đĩa khởi_động chạy fdisk syntax fdisk mbr chúc thành_công dinh_nghia_chào khởi_động đĩa khởi_động fdisk format chúc thành_công
