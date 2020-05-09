@@ -1,0 +1,1 @@
+bệnh_nhân nhập_viện lao_động vụ_điều_trị bộ_y_tế tỉ_lệ bệnh_nhân viện tỉ_lệ bệnh_nhân bệnh nhập_viện so triệu lượt khám bệnh triệu lượt khám bệnh_nhi điều_trị miễn_phí đột_biến triệu trẻ_em chiếm tổng_số lượt người_bệnh điều_trị nội_trú
